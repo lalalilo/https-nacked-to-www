@@ -1,4 +1,4 @@
-Ansible playbook to setup a redirection server from your root domain name to wwww subdomain using Let's encrypt on nginx.
+# Ansible playbook to setup a redirection server from your root domain name to wwww subdomain using Let's encrypt on nginx.
 
 The Ansible playbook installs nginx and let's encrypt to redirect https://example.com to https://www.example.com.
 
